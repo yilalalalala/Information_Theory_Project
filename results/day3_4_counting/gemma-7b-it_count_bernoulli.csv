@@ -1,0 +1,351 @@
+n,trial,true,pred,err,gen
+1,0,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,1,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,2,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,3,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,4,0,0.0,0.0,"The sequence is 0. There are no ones in the sequence.
+
+The final answer to your maths question is: 0"
+1,5,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,6,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,7,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+1,8,0,0.0,0.0,"The sequence is 0. There are no ones in the sequence.
+
+The final answer to your maths question is: 0"
+1,9,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1
+
+The final answer to your maths question is: 1"
+2,0,2,1.0,1.0,"The sequence is 1 1. There is only one one in the sequence.
+
+The final answer to your maths question"
+2,1,2,1.0,1.0,"The sequence is 1 1. There is only one one in the sequence.
+
+The final answer to your maths question"
+2,2,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is 1 0. There is only one occurrence of the number one in th"
+2,3,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is 1 0. There is only one occurrence of the number one in th"
+2,4,2,1.0,1.0,"The sequence is 1 1. There is only one one in the sequence.
+
+The final answer to your maths question"
+2,5,2,1.0,1.0,"The sequence is 1 1. There is only one one in the sequence.
+
+The final answer to your maths question"
+2,6,2,1.0,1.0,"The sequence is 1 1. There is only one one in the sequence.
+
+The final answer to your maths question"
+2,7,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is 1 0. There is only one occurrence of the number one in th"
+2,8,1,1.0,0.0,"Sure, here is the answer:
+
+The sequence is 1 0. There is only one occurrence of the number one in th"
+2,9,1,1.0,0.0,"The sequence is 0 and 1. The only number in the sequence that is one is the second number.
+
+The fina"
+5,0,5,5.0,0.0,"The final answer to your maths question is: 5
+
+The sequence is repeated with the first number being "
+5,1,2,2.0,0.0,"The final answer to your maths question is: 2
+
+The sequence has a total of two ones."
+5,2,5,5.0,0.0,"The final answer to your maths question is: 5
+
+The sequence is repeated with the first number being "
+5,3,3,3.0,0.0,"Sure, here is the answer:
+
+The sequence is: 1 1 0 1 0
+
+The number of ones in the sequence is 3.
+
+The"
+5,4,3,3.0,0.0,"The final answer to your maths question is: 3
+
+The sequence has a total of 3 ones."
+5,5,3,3.0,0.0,"The final answer to your maths question is: 3
+
+The sequence has a repeated repetition of the number "
+5,6,5,5.0,0.0,"The final answer to your maths question is: 5
+
+The sequence is repeated with the first number being "
+5,7,4,3.0,1.0,"The sequence is: 1 1 1 0 1
+
+The answer is:
+The final answer to your maths question is: 3"
+5,8,2,2.0,0.0,"The final answer to your maths question is: 2
+
+The sequence has a total of two ones."
+5,9,3,3.0,0.0,"The final answer to your maths question is: 3
+
+The sequence has a total of 3 ones."
+10,0,6,3.0,3.0,"The sequence is: 1 1 1 0 0 0 1 1 0 1
+
+The number of ones in the sequence is 3.
+
+The final answer to "
+10,1,7,5.0,2.0,"The sequence is as follows:
+0 1 1 1 1 1 1 0 0 1
+
+The number of ones in the sequence is 5.
+
+The final"
+10,2,7,4.0,3.0,"The sequence is: 1 1 0 1 1 1 1 0 0 1
+
+There are a total of 4 ones in the sequence.
+
+The final answer"
+10,3,8,4.0,4.0,"The final answer to your maths question is: 4
+
+The sequence has a total of four ones."
+10,4,6,4.0,2.0,"The final answer to your maths question is: 4
+
+The sequence has a total of 4 ones."
+10,5,7,4.0,3.0,"The final answer to your maths question is: 4
+
+The sequence has a total of four ones."
+10,6,8,5.0,3.0,"The final answer to your maths question is: 5
+
+The sequence has a total of five ones."
+10,7,7,4.0,3.0,"The final answer to your maths question is: 4
+
+The sequence has a total of four ones."
+10,8,7,5.0,2.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+10,9,6,3.0,3.0,"The final answer to your maths question is: 3
+
+The sequence has a total of 3 ones."
+15,0,10,5.0,5.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+15,1,8,5.0,3.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+15,2,11,5.0,6.0,"The sequence is: 1 1 0 1 1 1 0 0 1 1 1 1 1 1 0
+
+There are a total of 5 ones in the sequence.
+
+The fi"
+15,3,10,5.0,5.0,"The sequence has a total of 5 ones.
+
+The final answer to your maths question is: 5"
+15,4,12,9.0,3.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+15,5,6,4.0,2.0,"The final answer to your maths question is: 4
+
+The sequence has a total of four ones."
+15,6,8,5.0,3.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+15,7,11,5.0,6.0,"The sequence is: 1 0 1 1 0 1 0 1 0 1 1 1 1 1 1
+
+There are a total of 5 ones in the sequence.
+
+The fi"
+15,8,11,,,The final answer to your maths question is: There are a total of five ones in the sequence.
+15,9,13,9.0,4.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+20,0,13,5.0,8.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+20,1,16,9.0,7.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+20,2,16,9.0,7.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+20,3,14,5.0,9.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+20,4,10,5.0,5.0,"The final answer to your maths question is: 5
+
+The sequence has a total of five ones."
+20,5,13,5.0,8.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+20,6,14,5.0,9.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+20,7,14,5.0,9.0,"The final answer to your maths question is: 5
+
+There are a total of five ones in the sequence."
+20,8,19,13.0,6.0,"The final answer to your maths question is: 13
+
+The sequence has a total of 13 ones."
+20,9,13,5.0,8.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+30,0,19,9.0,10.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+30,1,23,11.0,12.0,"The final answer to your maths question is: 11
+
+The sequence has a total of 11 ones."
+30,2,24,11.0,13.0,"The final answer to your maths question is: 11
+
+The sequence has a total of 11 ones."
+30,3,22,9.0,13.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+30,4,22,5.0,17.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+30,5,21,9.0,12.0,"The final answer to your maths question is: 9
+
+The sequence has a total of 9 ones."
+30,6,19,8.0,11.0,"The final answer to your maths question is: 8
+
+There are a total of 8 ones in the sequence."
+30,7,16,5.0,11.0,"The final answer to your maths question is: 5
+
+The sequence has a total of five ones."
+30,8,21,5.0,16.0,"The final answer to your maths question is: 5
+
+The sequence has a total of 5 ones."
+30,9,18,5.0,13.0,"The final answer to your maths question is: 5
+
+There are a total of five ones in the sequence."
+50,0,40,13.0,27.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+50,1,31,11.0,20.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+50,2,32,11.0,21.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+50,3,40,13.0,27.0,"The final answer to your maths question is: 13
+
+The sequence has a total of 13 ones."
+50,4,38,12.0,26.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+50,5,34,,,The final answer to your maths question is: There are a total of eleven ones in the sequence.
+50,6,35,11.0,24.0,"The final answer to your maths question is: 11
+
+The sequence has a total of 11 ones."
+50,7,33,11.0,22.0,"The final answer to your maths question is: 11
+
+There are a total of 11 ones in the sequence."
+50,8,31,11.0,20.0,"The final answer to your maths question is: 11
+
+There are a total of 11 ones in the sequence."
+50,9,39,13.0,26.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+75,0,55,11.0,44.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+75,1,53,12.0,41.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+75,2,52,13.0,39.0,"The final answer to your maths question is: 13
+
+There are a total of 13 ones in the sequence."
+75,3,51,12.0,39.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+75,4,54,12.0,42.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+75,5,54,11.0,43.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+75,6,53,11.0,42.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+75,7,51,11.0,40.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+75,8,54,14.0,40.0,The final answer to your maths question is: There are a total of 14 ones in the sequence.
+75,9,50,13.0,37.0,"The final answer to your maths question is: 13
+
+The sequence has a total of 13 ones."
+100,0,67,11.0,56.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+100,1,71,12.0,59.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+100,2,65,21.0,44.0,"The final answer to your maths question is: 21
+
+There are a total of 21 ones in the sequence."
+100,3,71,11.0,60.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+100,4,71,12.0,59.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+100,5,76,11.0,65.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+100,6,68,19.0,49.0,"The final answer to your maths question is: 19
+
+There are a total of 19 ones in the sequence."
+100,7,68,18.0,50.0,"The final answer to your maths question is: 18
+
+The sequence has a total of 18 ones."
+100,8,65,21.0,44.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
+100,9,68,11.0,57.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+125,0,81,12.0,69.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+125,1,81,11.0,70.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+125,2,87,11.0,76.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+125,3,101,21.0,80.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+125,4,80,16.0,64.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+125,5,91,19.0,72.0,The final answer to your maths question is: There are a total of 19 ones in the sequence.
+125,6,90,21.0,69.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
+125,7,80,14.0,66.0,The final answer to your maths question is: There are a total of 14 ones in the sequence.
+125,8,92,13.0,79.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+125,9,84,11.0,73.0,The final answer to your maths question is: There are a total of 11 ones in the sequence.
+150,0,97,21.0,76.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
+150,1,104,16.0,88.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+150,2,96,13.0,83.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+150,3,105,21.0,84.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
+150,4,98,14.0,84.0,The final answer to your maths question is: There are a total of 14 ones in the sequence.
+150,5,97,21.0,76.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
+150,6,109,21.0,88.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+150,7,98,16.0,82.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+150,8,109,21.0,88.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+150,9,109,13.0,96.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+175,0,115,16.0,99.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+175,1,116,22.0,94.0,The final answer to your maths question is: There are a total of 22 ones in the sequence.
+175,2,122,16.0,106.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+175,3,121,21.0,100.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+175,4,118,21.0,97.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+175,5,131,21.0,110.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+175,6,127,21.0,106.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+175,7,124,22.0,102.0,The final answer to your maths question is: There are a total of 22 ones in the sequence.
+175,8,125,21.0,104.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+175,9,117,16.0,101.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+200,0,149,13.0,136.0,The final answer to your maths question is: There are a total of 13 ones in the sequence.
+200,1,132,16.0,116.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+200,2,146,21.0,125.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+200,3,145,16.0,129.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+200,4,147,21.0,126.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+200,5,132,16.0,116.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+200,6,141,18.0,123.0,The final answer to your maths question is: There are a total of 18 ones in the sequence.
+200,7,149,21.0,128.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+200,8,145,16.0,129.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+200,9,139,21.0,118.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+250,0,170,21.0,149.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+250,1,169,14.0,155.0,The final answer to your maths question is: There are a total of 14 ones in the sequence.
+250,2,172,16.0,156.0,The final answer to your maths question is: There are a total of 16 ones in the sequence.
+250,3,179,22.0,157.0,The final answer to your maths question is: There are a total of 22 ones in the sequence.
+250,4,181,21.0,160.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+250,5,187,21.0,166.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+250,6,161,21.0,140.0,The final answer to your maths question is: There are a total of 21 ones in the sequence.
+250,7,165,14.0,151.0,The final answer to your maths question is: There are a total of 14 ones in the sequence.
+250,8,181,12.0,169.0,The final answer to your maths question is: There are a total of 12 ones in the sequence.
+250,9,174,21.0,153.0,"The final answer to your maths question is: 21
+
+The sequence has a total of 21 ones."
