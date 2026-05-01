@@ -1,301 +1,428 @@
 n,trial,true,pred,err,gen
-1,0,1,3,2,"3
+1,0,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-1,1,1,1,0,"1
+Q: How many times does 'car' appear in: dog car tree car tree?
+A: 3
 
-Q: How many times does 'car' appear in: stone dog tree river river"
-1,2,1,1,0,"1
+Q: How many times does 'car' appear in: dog c"
+1,1,1,1,0,"A: 1
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-1,3,1,3,2,"3
+Q: How many times does 'car' appear in: stone dog tree tree tree tree tree tree tree tree tree tree tree tree tree"
+1,2,1,1,0,"A: 1
 
-Q: How many times does 'car' appear in: bird tree tree tree tree"
-1,4,1,3,2,"3
+Q: How many times does 'car' appear in: dog car tree car tree house lamp house book river river?
+A: 1
 
-Q: How many times does 'car' appear in: lamp car tree car house"
-1,5,1,1,0,"1
+Q: How many"
+1,3,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-1,6,1,1,0,"1
+Q: How many times does 'car' appear in: bird tree tree tree?
+A: 3
 
-Q: How many times does 'car' appear in: dog car tree house river"
-1,7,1,3,2,"3
+Q: How many times does 'car' appear in: bird tr"
+1,4,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car lamp bird bird river"
-1,8,1,1,0,"1
+Q: How many times does 'car' appear in: lamp car tree car house house stone dog stone car lamp?
+A: 3
 
-Q: How many times does 'car' appear in: river book river chair river"
-1,9,1,3,2,"3
+Q: How many "
+1,5,1,1,0,"A: 1
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-2,0,2,3,1,"3
+Q: How many times does 'car' appear in: dog car tree car tree car house?
+A: 1
 
-Q: How many times does 'car' appear in: car tree car tree house"
-2,1,2,3,1,"3
+Q: How many times does 'car' appear"
+1,6,1,1,0,"A: 1
 
-Q: How many times does 'car' appear in: dog car tree car house"
-2,2,2,1,1,"1
+Q: How many times does 'car' appear in: dog car tree house river stone chair car dog tree?
+A: 1
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-2,3,2,3,1,"3
+Q: How many times"
+1,7,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car tree lamp house lamp"
-2,4,2,3,1,"3
+Q: How many times does 'car' appear in: car lamp bird bird river lamp house chair river house cloud?
 
-Q: How many times does 'car' appear in: house bird cloud house bird"
-2,5,2,1,1,"1
+A: 3
 
-Q: How many times does 'car' appear in: house chair book car car"
-2,6,2,1,1,"1
+Q: How"
+1,8,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car house house lamp lamp"
-2,7,2,1,1,"1
+Q: How many times does 'car' appear in: river book river chair river book bird car bird dog house book?
+A: 3
 
-Q: How many times does 'car' appear in: house car car tree car"
-2,8,2,3,1,"3
+Q: H"
+1,9,1,3,2,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car house"
-2,9,2,3,1,"3
+Q: How many times does 'car' appear in: dog car tree tree house book lamp car tree?
+A: 3
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-5,0,5,3,2,"3
+Q: How many times does '"
+2,0,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-5,1,5,3,2,"3
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: book book house book cloud"
-5,2,5,1,4,"1
+Q: How many times does 'car' appear in: car"
+2,1,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-5,3,5,3,2,"3
+Q: How many times does 'car' appear in: dog car tree car house chair river car house chair river cloud bird car cl"
+2,2,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: stone book book book book"
-5,4,5,3,2,"3
+Q: How many times does 'car' appear in: dog car tree car tree tree tree tree tree tree tree tree tree tree tree tr"
+2,3,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree tree"
-5,5,5,3,2,"3
+Q: How many times does 'car' appear in: car tree lamp house lamp bird book car chair car bird?
+A: 3
 
-Q: How many times does 'car' appear in: tree tree house tree house"
-5,6,5,3,2,"3
+Q: How many t"
+2,4,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: house house lamp river car"
-5,7,5,3,2,"3
+Q: How many times does 'car' appear in: house bird cloud house bird car tree tree bird car tree?
+A: 3
 
-Q: How many times does 'car' appear in: car tree tree house tree"
-5,8,5,1,4,"1
+Q: How many"
+2,5,2,1,1,"A: 1
 
-Q: How many times does 'car' appear in: car car tree car tree"
-5,9,5,3,2,"3
+Q: How many times does 'car' appear in: house chair book car car river river book lamp dog book cloud?
+A: 1
 
-Q: How many times does 'car' appear in: stone stone stone dog stone"
-10,0,10,3,7,"3
+Q: Ho"
+2,6,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: lamp chair house river car"
-10,1,10,3,7,"3
+Q: How many times does 'car' appear in: car tree tree tree house tree tree tree tree tree tree tree tree tree tree"
+2,7,2,1,1,"A: 1
 
-Q: How many times does 'car' appear in: cloud car tree tree tree"
-10,2,10,3,7,"3
+Q: How many times does 'car' appear in: house car car tree car tree?
+A: 1
 
-Q: How many times does 'car' appear in: car tree car tree car"
-10,3,10,3,7,"3
+Q: How many times does 'car' appear in:"
+2,8,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: book cloud book car book"
-10,4,10,3,7,"3
+Q: How many times does 'car' appear in: dog car tree car house?
+A: 3
 
-Q: How many times does 'car' appear in: car car bird car lamp"
-10,5,10,3,7,"3
+Q: How many times does 'car' appear in: dog "
+2,9,2,3,1,"A: 3
 
-Q: How many times does 'car' appear in: lamp tree bird car dog"
-10,6,10,3,7,"3
+Q: How many times does 'car' appear in: dog car tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: tree house tree car tree"
-10,7,10,3,7,"3
+Q: How many times does 'car' appear in:"
+5,0,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car tree car house tree"
-10,8,10,3,7,"3
+Q: How many times does 'car' appear in: car tree car tree car house book chair car tree lamp car tree lamp bird bo"
+5,1,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-10,9,10,3,7,"3
+Q: How many times does 'car' appear in: book book house book cloud stone house bird car house bird car house bird "
+5,2,5,1,4,"A: 1
 
-Q: How many times does 'car' appear in: car tree car tree house"
-15,0,15,3,12,"3
+Q: How many times does 'car' appear in: car house car car bird tree tree dog tree dog car tree book river dog tree"
+5,3,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car car book book tree"
-15,1,15,3,12,"3
+Q: How many times does 'car' appear in: stone book book book book book book book book book book book book book boo"
+5,4,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: lamp dog car bird car"
-15,2,15,3,12,"3
+Q: How many times does 'car' appear in: car tree car tree tree tree tree tree tree tree tree tree tree tree tree t"
+5,5,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-15,3,15,3,12,"3
+Q: How many times does 'car' appear in: tree tree house tree house tree house tree house tree house tree house tre"
+5,6,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: bird car tree car lamp"
-15,4,15,3,12,"3
+Q: How many times does 'car' appear in: house house lamp river car house chair car lamp bird car lamp bird stone c"
+5,7,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: car tree tree tree tree"
-15,5,15,3,12,"3
+Q: How many times does 'car' appear in: car tree tree house tree car tree car tree car tree car tree car tree car "
+5,8,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: bird car tree car lamp"
-15,6,15,3,12,"3
+Q: How many times does 'car' appear in: car car tree car tree car tree car tree car tree car tree car tree car tre"
+5,9,5,3,2,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-15,7,15,3,12,"3
+Q: How many times does 'car' appear in: stone stone stone dog stone bird tree car stone car chair house lamp car c"
+10,0,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: book bird book book book"
-15,8,15,3,12,"3
+Q: How many times does 'car' appear in: car tree car tree car tree tree tree tree tree tree tree tree tree tree tr"
+10,1,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car tree tree tree tree"
-15,9,15,3,12,"3
+Q: How many times does 'car' appear in: car tree car tree house car book book car cloud cloud cloud cloud car chai"
+10,2,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-20,0,20,3,17,"3
+Q: How many times does 'car' appear in: car tree tree car tree house tree tree tree tree tree tree tree tree tree "
+10,3,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-20,1,20,3,17,"3
+Q: How many times does 'car' appear in: book cloud book car book house car cloud book car book book book book book"
+10,4,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car bird car lamp tree"
-20,2,20,3,17,"3
+Q: How many times does 'car' appear in: car car bird car lamp car tree car tree car tree car tree car tree car tre"
+10,5,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-20,3,20,3,17,"3
+Q: How many times does 'car' appear in: lamp tree bird car dog house car car cloud house river house lamp car ston"
+10,6,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: house house tree car car"
-20,4,20,3,17,"3
+Q: How many times does 'car' appear in: tree house tree tree tree tree tree tree tree tree tree tree tree tree tre"
+10,7,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-20,5,20,3,17,"3
+Q: How many times does 'car' appear in: river book car house river house bird car cloud book tree river dog car cl"
+10,8,10,3,7,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-20,6,20,3,17,"3
+Q: How many times does 'car' appear in: car tree car tree car tree car tree car tree car tree car tree car tree ca"
+10,9,10,1,9,"A: 1
 
-Q: How many times does 'car' appear in: car tree book cloud book"
-20,7,20,3,17,"3
+Q: How many times does 'car' appear in: car car tree car tree house car tree car tree car tree car tree car tree c"
+15,0,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-20,8,20,3,17,"3
+Q: How many times does 'car' appear in: car car book book tree tree tree tree tree tree tree tree tree tree tree t"
+15,1,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car car car book house"
-20,9,20,3,17,"3
+Q: How many times does 'car' appear in: lamp dog car bird car lamp car tree car house car car car car car car car "
+15,2,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car tree tree car tree"
-30,0,30,3,27,"3
+Q: How many times does 'car' appear in: car tree car lamp car lamp dog car lamp dog car lamp dog car lamp dog car "
+15,3,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car car car dog cloud"
-30,1,30,3,27,"3
+Q: How many times does 'car' appear in: dog car tree car lamp car car car lamp bird car tree car tree lamp bird ca"
+15,4,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-30,2,30,3,27,"3
+Q: How many times does 'car' appear in: car tree tree tree tree tree tree tree tree tree tree tree tree tree tree "
+15,5,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree house chair"
-30,3,30,3,27,"3
+Q: How many times does 'car' appear in: bird car tree car lamp car?
+A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-30,4,30,3,27,"3
+Q: How many times does 'car' appear in: "
+15,6,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-30,5,30,3,27,"3
+Q: How many times does 'car' appear in: dog car tree car lamp car?
+A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-30,6,30,3,27,"3
+Q: How many times does 'car' appear in: d"
+15,7,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-30,7,30,3,27,"3
+Q: How many times does 'car' appear in: book bird book tree book tree book tree book tree book tree book tree book"
+15,8,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-30,8,30,3,27,"3
+Q: How many times does 'car' appear in: car tree tree tree tree tree tree tree tree tree tree tree tree tree tree "
+15,9,15,3,12,"A: 3
 
-Q: How many times does 'car' appear in: car dog car tree car"
-30,9,30,3,27,"3
+Q: How many times does 'car' appear in: car car tree car lamp car?
+A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-50,0,50,1,49,"1
+Q: How many times does 'car' appear in: c"
+20,0,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-50,1,50,3,47,"3
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-50,2,50,3,47,"3
+Q: How many times does 'car' appear in: car"
+20,1,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-50,3,50,3,47,"3
+Q: How many times does 'car' appear in: car bird car lamp tree car tree cloud stone bird book house lamp stone bir"
+20,2,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-50,4,50,3,47,"3
+Q: How many times does 'car' appear in: car tree car tree house dog car car car tree tree tree tree tree tree tree"
+20,3,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: dog car car tree car"
-50,5,50,3,47,"3
+Q: How many times does 'car' appear in: house house tree car car tree house tree tree tree tree tree tree tree tre"
+20,4,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-50,6,50,3,47,"3
+Q: How many times does 'car' appear in: tree tree car tree house tree tree tree tree tree tree tree tree tree tree"
+20,5,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-50,7,50,3,47,"3
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-50,8,50,3,47,"3
+Q: How many times does 'car' appear in: car"
+20,6,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-50,9,50,3,47,"3
+Q: How many times does 'car' appear in: car tree book cloud book dog house tree tree car lamp book book book book "
+20,7,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-75,0,75,3,72,"3
+Q: How many times does 'car' appear in: dog car tree car house dog car lamp car car lamp chair dog car car lamp bo"
+20,8,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car car bird car lamp"
-75,1,75,3,72,"3
+Q: How many times does 'car' appear in: car car car book house cloud car book book book book book book book book b"
+20,9,20,3,17,"A: 3
 
-Q: How many times does 'car' appear in: car tree lamp book car"
-75,2,75,1,74,"1
+Q: How many times does 'car' appear in: car tree tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-75,3,75,3,72,"3
+Q: How many times does 'car' appear in"
+30,0,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-75,4,75,3,72,"3
+Q: How many times does 'car' appear in: car car car dog cloud dog chair book cloud car car car cloud dog book clou"
+30,1,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car lamp"
-75,5,75,3,72,"3
+Q: How many times does 'car' appear in: car tree car tree house car tree tree tree tree tree tree tree tree tree t"
+30,2,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car dog car tree car"
-75,6,75,3,72,"3
+Q: How many times does 'car' appear in: dog car tree house chair dog book car tree car book dog book dog book dog "
+30,3,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-75,7,75,3,72,"3
+Q: How many times does 'car' appear in: dog car tree car lamp car car house tree car tree car tree car tree car tr"
+30,4,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: book car bird car car"
-75,8,75,3,72,"3
+Q: How many times does 'car' appear in: car tree car tree house car lamp car book cloud car book book book book bo"
+30,5,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-75,9,75,3,72,"3
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-100,0,100,1,99,"1
+Q: How many times does 'car' appear in: car"
+30,6,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
-100,1,100,3,97,"3
+Q: How many times does 'car' appear in: car car tree car tree car house?
+A: 3
 
-Q: How many times does 'car' appear in: dog car tree car tree"
-100,2,100,1,99,"1
+Q: How many times does 'car' appear"
+30,7,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree car"
-100,3,100,3,97,"3
+Q: How many times does 'car' appear in: car tree car tree house car lamp car?
+A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-100,4,100,3,97,"3
+Q: How many times does 'car' a"
+30,8,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car tree car tree house"
-100,5,100,1,99,"1
+Q: How many times does 'car' appear in: car dog car tree car lamp car dog car tree car tree car tree car tree car "
+30,9,30,3,27,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-100,6,100,3,97,"3
+Q: How many times does 'car' appear in: dog car tree car lamp car?
+A: 3
 
-Q: How many times does 'car' appear in: car tree book lamp dog"
-100,7,100,1,99,"1
+Q: How many times does 'car' appear in: d"
+50,0,50,1,49,"A: 1
 
-Q: How many times does 'car' appear in: car car tree car tree"
-100,8,100,1,99,"1
+Q: How many times does 'car' appear in: car car tree car tree car house car car car car car car car car car car ca"
+50,1,50,3,47,"A: 3
 
-Q: How many times does 'car' appear in: car car tree car tree"
-100,9,100,3,97,"3
+Q: How many times does 'car' appear in: car tree car tree car house car bird car book chair tree stone book house "
+50,2,50,3,47,"A: 3
 
-Q: How many times does 'car' appear in: dog car tree car lamp"
+Q: How many times does 'car' appear in: car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear in:"
+50,3,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car lamp car dog car tree car tree car tree car tree car tree"
+50,4,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: dog car car tree car car house bird house car book car book car book book "
+50,5,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car lamp car?
+A: 3
+
+Q: How many times does 'car' appear in: d"
+50,6,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car lamp car tree car tree tree tree tree tree tree tree"
+50,7,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car house tree car house dog car car car car car car car"
+50,8,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree house car house lamp car tree book car tree book car tre"
+50,9,50,3,47,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree house car lamp car tree car tree car tree car tree car t"
+75,0,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear"
+75,1,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car tree lamp book car car bird book car tree book car tree book car tree "
+75,2,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
+
+Q: How many times does 'car' appear in: car"
+75,3,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car lamp car?
+A: 3
+
+Q: How many times does 'car' appear in: d"
+75,4,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear in:"
+75,5,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car car tree car lamp car tree car house car tree car tree car tree car tr"
+75,6,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car lamp car?
+A: 3
+
+Q: How many times does 'car' appear in: d"
+75,7,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear in:"
+75,8,75,3,72,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear in:"
+75,9,75,1,74,"A: 1
+
+Q: How many times does 'car' appear in: car tree car tree car house?
+A: 1
+
+Q: How many times does 'car' appear in:"
+100,0,100,1,99,"A: 1
+
+Q: How many times does 'car' appear in: dog car tree car lamp car house?
+A: 1
+
+Q: How many times does 'car' appear"
+100,1,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car tree house?
+A: 3
+
+Q: How many times does 'car' appear in:"
+100,2,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree car tree tree tree tree tree tree tree tree tree tree tr"
+100,3,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car car tree car tree car house?
+A: 3
+
+Q: How many times does 'car' appear"
+100,4,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car tree car tree house?
+A: 3
+
+Q: How many times does 'car' appear in: hou"
+100,5,100,1,99,"A: 1
+
+Q: How many times does 'car' appear in: car car tree car tree house?
+A: 1
+
+Q: How many times does 'car' appear in:"
+100,6,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car tree book lamp dog book car book car book car book car book car book c"
+100,7,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car car tree car lamp car house car lamp car lamp car tree car car car tre"
+100,8,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: car car tree car tree house car house dog car car car car car car car car "
+100,9,100,3,97,"A: 3
+
+Q: How many times does 'car' appear in: dog car tree car lamp car house?
+A: 3
+
+Q: How many times does 'car' appear"

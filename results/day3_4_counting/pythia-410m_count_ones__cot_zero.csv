@@ -1,0 +1,491 @@
+n,trial,true,pred,err,gen
+1,0,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,1,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,2,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,3,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,4,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,5,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,6,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,7,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,8,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+1,9,1,8.0,7.0,"A: 1.
+
+Q: How many ones are in this sequence: 2?
+
+A: 2.
+
+Q: How many ones are in this sequence: 3?
+
+A: 3.
+
+Q: How many o"
+2,0,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,1,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,2,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,3,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,4,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,5,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,6,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,7,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,8,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+2,9,2,8.0,6.0,"A: 1 1
+
+Q: How many ones are in this sequence: 2 2?
+
+A: 2 2
+
+Q: How many ones are in this sequence: 3 3?
+
+A: 3 3
+
+Q: How"
+5,0,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,1,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,2,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,3,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,4,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,5,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,6,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,7,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,8,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+5,9,5,1.0,4.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,0,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,1,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,2,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,3,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,4,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,5,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,6,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,7,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,8,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,9,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+15,0,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,1,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,2,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,3,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,4,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,5,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,6,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,7,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,8,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+15,9,15,1.0,14.0,"A: 1
+
+Q: How many ones are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1?
+
+A: 1
+
+Q: How many ones are in this sequence"
+20,0,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,1,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,2,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,3,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,4,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,5,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,6,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,7,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,8,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,9,20,1.0,19.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,0,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,1,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,2,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,3,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,4,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,5,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,6,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,7,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,8,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,9,30,1.0,29.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,0,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,1,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,2,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,3,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,4,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,5,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,6,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,7,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,8,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+50,9,50,1.0,49.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+75,0,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,1,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,2,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,3,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,4,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,5,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,6,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,7,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,8,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,9,75,1.0,74.0,"A: Yes, that's a sequence of 1's.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+100,0,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,1,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,2,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,3,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,4,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,5,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,6,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,7,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,8,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+100,9,100,,,"A:
+
+The first one is the first one.
+The second one is the second one.
+The third one is the third one.
+The fourth one is "
+125,0,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,1,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,2,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,3,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,4,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,5,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,6,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,7,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,8,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+125,9,125,1.0,124.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,0,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,1,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,2,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,3,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,4,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,5,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,6,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,7,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,8,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+150,9,150,1.0,149.0,"A:
+
+The first one is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
