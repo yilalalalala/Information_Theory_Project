@@ -16,10 +16,13 @@ This project replicates and extends Barbero et al. (2024), "Transformers need gl
 The repository contains the experimental notebooks for both the replication study (across GPT-2, Pythia-410M, Llama-3.1-8B, and Gemma-7B) and the Miller's Window extension trained on GPT-2.
 
 ## Structure
+
+```
 notebooks/
-├── Yila_Representational_Collapse.ipynb   # Per-head L∞ collapse measurement across four architectures
-├── Yila_Counting_complete.ipynb           # Counting-task evaluation (4 tasks × 3 prompting modes × 4 models)
-└── Yichen_reproduction_of_new_m...ipynb   # Miller's Window prior, training and evaluation
+├── Yila_Representational_Collapse.ipynb         # Per-head L∞ collapse measurement across four architectures
+├── Yila_Counting_complete.ipynb                 # Counting-task evaluation (4 tasks × 3 prompting modes × 4 models)
+└── Yichen_reproduction_of_new_metric.ipynb      # Miller's Window prior, training and evaluation
+```
 
 ## Models
 
