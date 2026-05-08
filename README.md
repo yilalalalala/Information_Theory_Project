@@ -22,6 +22,10 @@ notebooks/
 ├── Yila_Representational_Collapse.ipynb         # Per-head L∞ collapse measurement across four architectures
 ├── Yila_Counting_complete.ipynb                 # Counting-task evaluation (4 tasks × 3 prompting modes × 4 models)
 └── Yichen_reproduction_of_new_metric.ipynb      # Miller's Window prior, training and evaluation
+
+RC_and_counting_results/                         # Cached CSVs and figures from RC + counting replication
+├── collapse/
+└── counting/
 ```
 
 ## Models
@@ -38,6 +42,8 @@ All models loaded under `torch.bfloat16` to match the precision floor of Barbero
 ## Reproducing Results
 
 Notebooks are designed for Google Colab (A100/V100). Each notebook is self-contained — install dependencies in the first cell, then run sequentially. Cached results are saved as CSV alongside each notebook.
+
+Cached results (per-model Δₙ measurements, counting-task accuracies, and generated figures) are stored in `RC_and_counting_results/` for reproducibility, so figures in the report can be regenerated without rerunning model inference.
 
 ## Reference
 
