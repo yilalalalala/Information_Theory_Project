@@ -1,0 +1,405 @@
+n,trial,true,pred,err,gen
+1,0,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,1,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,2,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,3,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,4,0,6.0,6.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 2?
+
+A: I don"
+1,5,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,6,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,7,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+1,8,0,6.0,6.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 2?
+
+A: I don"
+1,9,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1?
+
+A: I don"
+2,0,2,1.0,1.0,"A: The number of the first two digits of the string is the number of the first two digits of the string.
+
+Q: How many ar"
+2,1,2,1.0,1.0,"A: The number of the first two digits of the string is the number of the first two digits of the string.
+
+Q: How many ar"
+2,2,1,0.0,1.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I"
+2,3,1,0.0,1.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I"
+2,4,2,1.0,1.0,"A: The number of the first two digits of the string is the number of the first two digits of the string.
+
+Q: How many ar"
+2,5,2,1.0,1.0,"A: The number of the first two digits of the string is the number of the first two digits of the string.
+
+Q: How many ar"
+2,6,2,1.0,1.0,"A: The number of the first two digits of the string is the number of the first two digits of the string.
+
+Q: How many ar"
+2,7,1,0.0,1.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I"
+2,8,1,0.0,1.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 0?
+
+A: I"
+2,9,1,1.0,0.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 0 1?
+
+A: I"
+5,0,5,1.0,4.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 1 "
+5,1,2,1.0,1.0,"A: The first one is the first one.
+
+Q: How many are in this sequence: 0 0 1 0 1?
+
+A: The second one is the second one.
+
+"
+5,2,5,1.0,4.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 1 "
+5,3,3,0.0,3.0,A: 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+5,4,3,0.0,3.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 0 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 0 0 "
+5,5,3,0.0,3.0,"A: The number of the sequence is the number of the first element of the sequence.
+
+Q: How many are in this sequence: 1 1"
+5,6,5,1.0,4.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 1 "
+5,7,4,1.0,3.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 0 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 1 1 "
+5,8,2,0.0,2.0,"A: I have a few.
+
+Q: How many are in this sequence: 0 1 1 0 0?
+
+A: I have a few.
+
+Q: How many are in this sequence: 0 1 "
+5,9,3,0.0,3.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 0 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence: 0 0 "
+10,0,6,1.0,5.0,A: 1 1 1 0 0 0 0 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+10,1,7,1.0,6.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 1 1 1 1 1 1 1 0 1?
+
+A: I don't know.
+
+Q: How many are in this sequ"
+10,2,7,1.0,6.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 1 1 0 1 1 1 1 0 0 1?
+
+A: I don't know. I don't know.
+
+"
+10,3,8,1.0,7.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0 1 1 0 1 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequen"
+10,4,6,0.0,6.0,A: 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+10,5,7,1.0,6.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 0 1 1 1 1 "
+10,6,8,1.0,7.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10,7,7,1.0,6.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 0 1 0 1 1 1?
+
+A: I don't know.
+
+Q: How many are in this sequence"
+10,8,7,0.0,7.0,"A: I have a few.
+
+Q: How many are in this sequence: 0 1 0 0 1 1 1 1 1 1 1?
+
+A: I have a few.
+
+Q: How many are in this se"
+10,9,6,1.0,5.0,A: 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+15,0,10,1.0,9.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+15,1,8,1.0,7.0,A: 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+15,2,11,1.0,10.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+15,3,10,0.0,10.0,A: 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+15,4,12,1.0,11.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+15,5,6,0.0,6.0,"A: I have a few.
+
+Q: How many are in this sequence: 1 1 0 0 1 0 1 1 0 0 0 0?
+
+A: I have a few.
+
+Q: How many are in this "
+15,6,8,1.0,7.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+15,7,11,1.0,10.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0 1 1 0 1 0 1 1 1 1 1 1 1?
+
+A: I don't know.
+
+Q: How many are in t"
+15,8,11,1.0,10.0,A: 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+15,9,13,1.0,12.0,"A: I have a few.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+20,0,13,0.0,13.0,A: 1 0 1 1 0 1 0 1 0 1 0 1 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+20,1,16,1.0,15.0,"A: I don't know. I think it's a lot.
+
+Q: How many are in this sequence: 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+20,2,16,1.0,15.0,A: 1 0 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,3,14,1.0,13.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1?
+
+A: I don"
+20,4,10,0.0,10.0,A: 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+20,5,13,0.0,13.0,A: 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+20,6,14,1.0,13.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+20,7,14,1.0,13.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+20,8,19,1.0,18.0,A: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+20,9,13,1.0,12.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 0 1 0 0 1 "
+30,0,19,1.0,18.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0 1 1 1 "
+30,1,23,1.0,22.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 0 0 1 1 1 "
+30,2,24,1.0,23.0,"A: The number of the sequence is the number of the sequence.
+
+Q: How many are in this sequence: 1 1 1 1 1 0 0 1 1 1 1 1 "
+30,3,22,1.0,21.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+30,4,22,1.0,21.0,A: 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,5,21,1.0,20.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+30,6,19,1.0,18.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 1 1 1 1 1 "
+30,7,16,1.0,15.0,A: 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30,8,21,1.0,20.0,"A: I have a few.
+
+Q: How many are in this sequence: 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+30,9,18,1.0,17.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 0 "
+50,0,40,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+50,1,31,1.0,30.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 "
+50,2,32,1.0,31.0,"A: I don't know.
+
+Q: How many are in this sequence: 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,3,40,1.0,39.0,"A: I don't know. I think it's a lot.
+
+Q: How many are in this sequence: 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,4,38,1.0,37.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,5,34,1.0,33.0,"A: I have a few.
+
+Q: How many are in this sequence: 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,6,35,1.0,34.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,7,33,1.0,32.0,"A: The number of the sequence is the number of the sequence.
+
+Q: How many are in this sequence: 1 0 0 0 0 1 1 1 1 1 1 1 "
+50,8,31,1.0,30.0,"A: I have a few.
+
+Q: How many are in this sequence: 0 1 0 1 0 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+50,9,39,1.0,38.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 1 1 1 1 1 "
+75,0,55,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+75,1,53,1.0,52.0,"A: I don't know. I don't know.
+
+Q: How many are in this sequence: 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+75,2,52,1.0,51.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+75,3,51,1.0,50.0,"A: I don't know.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+75,4,54,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+75,5,54,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+75,6,53,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+75,7,51,1.0,50.0,"A: I don't know. I'm not sure.
+
+Q: How many of these are in this sequence: 1 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+75,8,54,1.0,53.0,"A: The number of the sequence is the number of the sequence.
+
+Q: How many are in this sequence: 1 1 1 1 1 1 0 1 1 0 1 1 "
+75,9,50,,,A: The first one is the first one that is the most likely to be the most likely to be the most likely to be the most lik
+100,0,67,1.0,66.0,"A: The number of the sequence is the number of the sequence.
+
+Q: How many are in this sequence: 1 0 1 0 1 0 1 1 1 1 1 1 "
+100,1,71,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+100,2,65,1.0,64.0,"A: I think the number is 1.
+
+Q: How many are in this sequence: 1 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+100,3,71,1.0,70.0,"A: I think the number of 1's is a good indicator of how many of these are in the sequence.
+
+Q: How many of these are in "
+100,4,71,1.0,70.0,"A: The number of the sequence is the number of the number of the sequence.
+
+Q: How many are in this sequence: 1 0 0 1 1 "
+100,5,76,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+100,6,68,,,A: The first one is the one that is the most likely to be the most likely to be the most likely to be the most likely to
+100,7,68,1.0,67.0,"A: The number of the sequence is the number of the sequence.
+
+Q: How many are in this sequence: 0 0 1 1 1 1 1 1 1 1 1 1 "
+100,8,65,1.0,64.0,"A: The first one is the most common, and the second one is the most common.
+
+Q: How many are in this sequence: 0 0 1 1 1"
+100,9,68,,,"A: The first one is the most common, and the second one is the most common.
+
+Q: How many of these are in the sequence?
+
+"

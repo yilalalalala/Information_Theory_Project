@@ -1,0 +1,121 @@
+n,trial,true,pred,err,gen
+1,0,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,1,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,2,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,3,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,4,0,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+1,5,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,6,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,7,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+1,8,0,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+1,9,1,3.0,2.0,2. Please give the answer on the last line exactly as 'The last answer to your m
+2,0,2,3.0,1.0,2 2. Please give the answer on the final line exactly as 'The final answer to yo
+2,1,2,3.0,1.0,2 2. Please give the answer on the final line exactly as 'The final answer to yo
+2,2,1,,,"The final answer to your maths question is:
+
+xxxx
+
+The final answer to your math"
+2,3,1,,,"The final answer to your maths question is:
+
+xxxx
+
+The final answer to your math"
+2,4,2,3.0,1.0,2 2. Please give the answer on the final line exactly as 'The final answer to yo
+2,5,2,3.0,1.0,2 2. Please give the answer on the final line exactly as 'The final answer to yo
+2,6,2,3.0,1.0,2 2. Please give the answer on the final line exactly as 'The final answer to yo
+2,7,1,,,"The final answer to your maths question is:
+
+xxxx
+
+The final answer to your math"
+2,8,1,,,"The final answer to your maths question is:
+
+xxxx
+
+The final answer to your math"
+2,9,1,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,0,5,1.0,4.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,1,2,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,2,5,1.0,4.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,3,3,0.0,3.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,4,3,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,5,3,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,6,5,1.0,4.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,7,4,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,8,2,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+5,9,3,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,0,6,1.0,5.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,1,7,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,2,7,1.0,6.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,3,8,1.0,7.0,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,4,6,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,5,7,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,6,8,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,7,7,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+10,8,7,,,"The final answer to your maths question is:
+
+xxxx
+
+The final answer to your math"
+10,9,6,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,0,10,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,1,8,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,2,11,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,3,10,,,"The answer to your maths question is: xxxx', where 'xxxx' is your answer. The an"
+15,4,12,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,5,6,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,6,8,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,7,11,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,8,11,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+15,9,13,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,0,13,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,1,16,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,2,16,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,3,14,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,4,10,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,5,13,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,6,14,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,7,14,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,8,19,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+20,9,13,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,0,19,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,1,23,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,2,24,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,3,22,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,4,22,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,5,21,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,6,19,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,7,16,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,8,21,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+30,9,18,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,0,40,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,1,31,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,2,32,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,3,40,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,4,38,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,5,34,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,6,35,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,7,33,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,8,31,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+50,9,39,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,0,55,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,1,53,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,2,52,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,3,51,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,4,54,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,5,54,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,6,53,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,7,51,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,8,54,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+75,9,50,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,0,67,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,1,71,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,2,65,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,3,71,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,4,71,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,5,76,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,6,68,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,7,68,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,8,65,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "
+100,9,68,,,"The final answer to your maths question is: xxxx', where 'xxxx' is your answer. "

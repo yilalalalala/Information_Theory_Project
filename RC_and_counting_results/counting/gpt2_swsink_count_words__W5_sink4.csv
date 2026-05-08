@@ -1,0 +1,275 @@
+n,trial,window,n_sinks,true,pred,err,gen
+1,0,5,4,1,,,"I don't know.
+
+Q: How many people are in the U.S.S"
+1,1,5,4,1,,,"I don't know.
+
+Q: How many times did you have to have a drink?"
+1,2,5,4,1,,,"I don't know.
+
+Q: How many people are in the U.S.S"
+1,3,5,4,1,,,"I don't know.
+
+Q: How many people are there?
+A: I don"
+1,4,5,4,1,,,"I don't know.
+
+Q: How many people are in the U.S.S"
+1,5,5,4,1,,,"I don't know.
+
+Q: How many people are in the U.S.S"
+1,6,5,4,1,,,"I have a lot of people who are in the same boat.
+Q: How many people are"
+1,7,5,4,1,,,"I have a very small number of people.
+Q: How many people are there?
+A"
+1,8,5,4,1,,,"I don't know.
+
+Q: How many people are in the U.S.S"
+1,9,5,4,1,,,"I have a lot of people who are not going to be able to do that.
+Q:"
+2,0,5,4,2,,,"I have a lot of people who are in the same boat.
+Q: How many times have"
+2,1,5,4,2,,,"I don't know.
+
+Q: How many times have you been in a relationship with a"
+2,2,5,4,2,,,"I don't know.
+
+Q: How many times did you have to be in the hospital"
+2,3,5,4,2,,,"I don't know.
+
+Q: How many people are in the United States?
+A"
+2,4,5,4,2,,,"I have a very good idea of what the game is about.
+Q: How many people are"
+2,5,5,4,2,,,"The number of people who are in the room.
+Q: How many times have you been to"
+2,6,5,4,2,,,"I don't know.
+
+Q: How many times have you been to the hospital?"
+2,7,5,4,2,,,"I have a lot of people who are not going to be able to do that.
+Q:"
+2,8,5,4,2,,,"I have a lot of people who are in the same boat.
+Q: How many times have"
+2,9,5,4,2,,,"I have a few hundred.
+Q: How many people are in the United States?
+A"
+5,0,5,4,5,,,"I don't know.
+Q: How many people are there?
+Q: How many times"
+5,1,5,4,5,,,"The number of people who are willing to do something for you.
+Q: How many times have"
+5,2,5,4,5,,,"I don't know.
+Q: How many people are in the United States?
+A:"
+5,3,5,4,5,,,"I don't know.
+Q: How many people are in the U.S.S."
+5,4,5,4,5,,,"I have a very small number of people.
+Q: How many people are in the United States"
+5,5,5,4,5,,,"I have a few hundred.
+Q: How many people are in the world today?
+A"
+5,6,5,4,5,,,"I have a lot of people who are in the same boat.
+Q: How many people are"
+5,7,5,4,5,,,"I have a lot of people who are in the same boat.
+Q: How many people are"
+5,8,5,4,5,,,"I don't know.
+Q: How many people are in the United States?
+A:"
+5,9,5,4,5,,,"I have a lot of people who are going to be in the next few years?
+A:"
+10,0,5,4,10,,,"I don't know.
+Q: How many times did you have to have a drink?"
+10,1,5,4,10,,,"I don't know.
+Q: How many people are in the United States?
+Q:"
+10,2,5,4,10,,,"I don't know.
+Q: How many times have you been to the hospital?
+Q"
+10,3,5,4,10,,,I have a lot of people who are going to be in the hospital for a long time.
+10,4,5,4,10,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+10,5,5,4,10,,,"I don't know.
+Q: How many people are in the U.S.S."
+10,6,5,4,10,,,"I have a lot of people who are going to be in the hospital.
+Q: How many"
+10,7,5,4,10,,,"I don't know.
+Q: How many people are you talking about?
+Q: I"
+10,8,5,4,10,,,"I don't know.
+Q: How many people are you talking about?
+Q: And"
+10,9,5,4,10,,,"I don't know.
+Q: How many times have you been to a place where you were"
+15,0,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: And"
+15,1,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+15,2,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: And"
+15,3,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: And"
+15,4,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+15,5,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: And"
+15,6,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+15,7,5,4,15,,,"I don't know.
+Q: How many people are you saying?
+Q: How many"
+15,8,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+15,9,5,4,15,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+20,0,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many times"
+20,1,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many times"
+20,2,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,3,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many times"
+20,4,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,5,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,6,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,7,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,8,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+20,9,5,4,20,,,"I don't know.
+Q: How many people are you?
+Q: How many times"
+30,0,5,4,30,,,"I don't know.
+Q: How many people are you talking about?
+QQQ"
+30,1,5,4,30,,,I don't know. I don't know. I don't know. I don't know.
+30,2,5,4,30,,,"I have not.
+
+Q: How many people are you talking about?
+QQQ"
+30,3,5,4,30,,,"I don't know.
+Q: How many people are you talking about?
+QQQ"
+30,4,5,4,30,,,"I don't know.
+Q: How many people are you talking about?
+Q: You"
+30,5,5,4,30,,,"I don't know.
+
+Q: How many people are in the United States?
+Q"
+30,6,5,4,30,,,"I don't know.
+Q: How many people are you talking about?
+QQQ"
+30,7,5,4,30,,,I don't know. I don't know. I don't know. I don't know.
+30,8,5,4,30,,,"I don't know.
+Q: How many people are you talking about?
+Q: How"
+30,9,5,4,30,,,"I don't know. I don't know. I don't know.
+Q: How many"
+50,0,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,1,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,2,5,4,50,,,"I don't know.
+
+Q: How many people are in the United States?
+Q"
+50,3,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,4,5,4,50,,,"I don't know.
+
+Q::::::::::::"
+50,5,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,6,5,4,50,,,"I don't know.
+
+Q::::::::::::"
+50,7,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,8,5,4,50,,,I don't know. I don't know. I don't know. I don't know.
+50,9,5,4,50,,,"I don't know.
+
+Q::::::::::::"
+75,0,5,4,75,,,I have a lot of things that that that that that that that that that that that that that that
+75,1,5,4,75,,,I don't know. I don't know. I don't know. I don't know.
+75,2,5,4,75,,,I'm not sure. I'm not sure. I'm not sure. I'm not sure.
+75,3,5,4,75,,,I am not sure. I am not sure. I am not sure. I am not sure.
+75,4,5,4,75,,,::::::::::::::::::::
+75,5,5,4,75,,,::::::::::::::::::::
+75,6,5,4,75,,,I don't know. I don't know. I don't know. I don't know.
+75,7,5,4,75,,,I don't know. I don't know. I don't know. I don't know.
+75,8,5,4,75,,,::::::::::::::::::::
+75,9,5,4,75,,,::::::::::::::::::::
+100,0,5,4,100,,,????????????????????
+100,1,5,4,100,,,"A
+
+A
+
+A
+
+A
+
+A
+
+A"
+100,2,5,4,100,,,How many? How many? How many????????????
+100,3,5,4,100,,,"What?
+
+The
+
+
+
+
+The
+
+
+
+
+The"
+100,4,5,4,100,,,A: A: A: A: A: A: A: A: A: A:
+100,5,5,4,100,,,"A
+A
+
+A
+A
+
+A
+A
+
+A"
+100,6,5,4,100,,,"A
+
+A
+
+A
+
+A
+
+A
+
+A"
+100,7,5,4,100,,,::::::::::::::::::::
+100,8,5,4,100,,,How How How How How How How How How How How How How How How How How How How How
+100,9,5,4,100,,,"How many?
+
+Q: How many people?
+
+The number of the number of the"

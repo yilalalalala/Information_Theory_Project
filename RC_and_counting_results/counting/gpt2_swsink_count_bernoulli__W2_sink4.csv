@@ -1,0 +1,194 @@
+n,trial,window,n_sinks,true,pred,err,gen
+1,0,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,1,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,2,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,3,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,4,2,4,0,,,"I think it's a lot of people are you?
+A: I have a lot of people"
+1,5,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,6,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,7,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+1,8,2,4,0,,,"I think it's a lot of people are you?
+A: I have a lot of people"
+1,9,2,4,1,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+2,0,2,4,2,,,"I think it's a very small number of people in the first place?
+Q: How many"
+2,1,2,4,2,,,"I think it's a very small number of people in the first place?
+Q: How many"
+2,2,2,4,1,10.0,9.0,I think it's about 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+2,3,2,4,1,10.0,9.0,I think it's about 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+2,4,2,4,2,,,"I think it's a very small number of people in the first place?
+Q: How many"
+2,5,2,4,2,,,"I think it's a very small number of people in the first place?
+Q: How many"
+2,6,2,4,2,,,"I think it's a very small number of people in the first place?
+Q: How many"
+2,7,2,4,1,10.0,9.0,I think it's about 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+2,8,2,4,1,10.0,9.0,I think it's about 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+2,9,2,4,1,,,"I don't know.
+Q: How many people are you?
+A: I have a"
+5,0,2,4,5,,,"I think it's a lot of people are the number of people in the first place?
+Q"
+5,1,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people?"
+5,2,2,4,5,,,"I think it's a lot of people are the number of people in the first place?
+Q"
+5,3,2,4,3,,,"I have a lot of money?
+Q: How many times have you had a lot of people"
+5,4,2,4,3,,,"I think it's a lot of people are the number of people in the first place?
+Q"
+5,5,2,4,3,,,"I don't know.
+Q: How many times did you have a lot of people?"
+5,6,2,4,5,,,"I think it's a lot of people are the number of people in the first place?
+Q"
+5,7,2,4,4,,,"I have a lot of people are you?
+A: I don't know.
+Q:"
+5,8,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people?"
+5,9,2,4,3,,,"I think it's a lot of people are the number of people in the first place?
+Q"
+10,0,2,4,6,,,"I have a lot of money?
+Q: How many people are there?
+Q: How"
+10,1,2,4,7,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,2,2,4,7,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,3,2,4,8,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,4,2,4,6,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,5,2,4,7,,,"I have a lot of people are?
+Q: How many people are there?
+Q:"
+10,6,2,4,8,,,"I have a lot of people are?
+Q: How many people are there?
+Q:"
+10,7,2,4,7,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,8,2,4,7,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+10,9,2,4,6,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+15,0,2,4,10,,,"I don't know.
+Q: How many times do you have a lot of people are."
+15,1,2,4,8,,,"I don't know.
+Q: How many times do you have a lot of people are."
+15,2,2,4,11,,,"I don't know.
+Q: How many times do you have a lot of people are."
+15,3,2,4,10,,,"I have a lot of people?
+Q: How many times did you have a lot of people"
+15,4,2,4,12,,,"I have a lot of people?
+Q: How many times did you have a lot of people"
+15,5,2,4,6,,,"I don't know.
+Q: How many times do you have a lot of people are."
+15,6,2,4,8,,,"I have a lot of money?
+Q: How many times did you have a lot of people"
+15,7,2,4,11,10.0,1.0,"I think it's about 10.
+Q: How many people are you?
+A: I"
+15,8,2,4,11,10.0,1.0,"I think it's about 10.
+Q: How many people are you?
+A: I"
+15,9,2,4,13,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,0,2,4,13,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,1,2,4,16,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,2,2,4,16,,,"I have a lot of money?
+Q: How many people are there?
+Q: How"
+20,3,2,4,14,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,4,2,4,10,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,5,2,4,13,,,"I have a lot of money?
+Q: How many people are there?
+Q: How"
+20,6,2,4,14,,,"I have a lot of money?
+Q: How many people are there?
+Q: How"
+20,7,2,4,14,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,8,2,4,19,,,"I don't know.
+Q: How many times do you have a lot of people are."
+20,9,2,4,13,,,"I don't know.
+Q: How many times do you have a lot of people are."
+30,0,2,4,19,,,"I have a lot of money.
+Q: How many people do that?????"
+30,1,2,4,23,,,"I don't know.
+Q: How many people are there???????"
+30,2,2,4,24,,,"I don't know.
+Q: How many people are there???????"
+30,3,2,4,22,,,"I have a lot of money.
+Q: How many people do that?????"
+30,4,2,4,22,,,"I have a lot of money.
+Q: How many people do that?????"
+30,5,2,4,21,,,"I don't know.
+Q: How many people are there???????"
+30,6,2,4,19,,,"I don't know.
+Q: How many people are there???????"
+30,7,2,4,16,,,I have a lot of people are. . . . . . . . . . . . .
+30,8,2,4,21,,,"I don't know.
+Q: How many people are there???????"
+30,9,2,4,18,,,"I don't know.
+Q: How many people are there???????"
+50,0,2,4,40,,,I I I I I I I I I I I I I I I I I I I I
+50,1,2,4,31,,,I I I I I I I I I I I I I I I I I I I I
+50,2,2,4,32,,,I I I I I I I I I I I I I I I I I I I I
+50,3,2,4,40,,,I I I I I I I I I I I I I I I I I I I I
+50,4,2,4,38,,,I I I I I I I I I I I I I I I I I I I I
+50,5,2,4,34,,,I I I I I I I I I I I I I I I I I I I I
+50,6,2,4,35,,,I I I I I I I I I I I I I I I I I I I I
+50,7,2,4,33,,,I I I I I I I I I I I I I I I I I I I I
+50,8,2,4,31,,,I I I I I I I I I I I I I I I I I I I I
+50,9,2,4,39,,,I I I I I I I I I I I I I I I I I I I I
+75,0,2,4,55,,,I: I: I: I: I: I: I: I: I: I:
+75,1,2,4,53,,,I: I: I: I: I: I: I: I: I: I:
+75,2,2,4,52,,,I: I: I: I: I: I: I: I: I: I:
+75,3,2,4,51,,,I: I: I: I: I: I: I: I: I: I:
+75,4,2,4,54,,,I: I: I: I: I: I: I: I: I: I:
+75,5,2,4,54,,,I: I: I: I: I: I: I: I: I: I:
+75,6,2,4,53,,,I: I: I: I: I: I: I: I: I: I:
+75,7,2,4,51,,,I: I: I: I: I: I: I: I: I: I:
+75,8,2,4,54,,,I: I: I: I: I: I: I: I: I: I:
+75,9,2,4,50,,,I: I: I: I: I: I: I: I: I: I:
+100,0,2,4,67,,,"B:
+Q: How How How How How How How How How How How How How How"
+100,1,2,4,71,,,Q: How How How How How How How How How How How How How How How How How
+100,2,2,4,65,,,Q: How How How How How How How How How How How How How How How How How
+100,3,2,4,71,,,Q: How How How How How How How How How How How How How How How How How
+100,4,2,4,71,,,"B:
+Q: How How How How How How How How How How How How How How"
+100,5,2,4,76,,,Q: How How How How How How How How How How How How How How How How How
+100,6,2,4,68,,,Q: How How How How How How How How How How How How How How How How How
+100,7,2,4,68,,,"B:
+Q: How How How How How How How How How How How How How How"
+100,8,2,4,65,,,Q: How How How How How How How How How How How How How How How How How
+100,9,2,4,68,,,Q: How How How How How How How How How How How How How How How How How

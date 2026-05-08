@@ -1,0 +1,278 @@
+n,trial,true,pred,err,gen
+1,0,1,11.0,10.0,"A: The number of times the car appears in the river dog chair chair stone car is:
+
+1) in the river dog chair chair stone"
+1,1,1,,,"A: The number of times the 'car' appears in the 'tree' is not known.
+
+Q: How many times does 'car' appear in: stone dog "
+1,2,1,,,"A:
+
+Q: How many times does 'car' appear in: dog car chair cloud lamp house lamp house book river river?
+
+A:
+
+Q: How many"
+1,3,1,,,"A:
+
+Q: How many times does 'car' appear in: bird stone tree river chair car house book cloud chair river?
+
+A:
+
+Q: How ma"
+1,4,1,,,"A: The number of times the 'car' appears in the house is a matter of opinion.
+
+Q: How many times does 'car' appear in: l"
+1,5,1,,,"A:
+
+Q: How many times does 'car' appear in: chair dog car cloud stone cloud river lamp cloud cloud dog?
+
+A:
+
+Q: How many"
+1,6,1,1.0,0.0,"A: The number of times a 'car' appears in: bird stone cloud tree house river stone chair car dog tree is:
+
+1) 1) 1) 1) 1"
+1,7,1,,,A: The number of times the 'car' appears in the 'car' column is not a factor in the number of times the 'car' appears in
+1,8,1,,,"A: The number of times the word 'car' appears in the book is not a coincidence.
+
+Q: How many times does 'car' appear in:"
+1,9,1,1.0,0.0,"A: The number of times the 'car' appears in: tree dog river stone bird lamp house book lamp car river is:
+
+1) 1) 1) 1) 1"
+2,0,2,,,"A:
+
+Q: How many times does 'car' appear in: chair car lamp cloud dog chair house lamp river chair car?
+
+A:
+
+Q: How many "
+2,1,2,,,"A:
+
+Q: How many times does 'car' appear in: dog book tree river car house chair river cloud bird car cloud?
+
+A:
+
+Q: How "
+2,2,2,,,"A: The number of times the word 'car' appears in the book is not a coincidence.
+
+Q: How many times does 'car' appear in:"
+2,3,2,,,"A:
+
+Q: How many times does 'car' appear in: tree lamp house lamp bird chair lamp book car chair car bird?
+
+A:
+
+Q: How ma"
+2,4,2,,,"A: The number of times a bird appears in a house bird cloud is not known.
+
+Q: How many times does 'car' appear in: house"
+2,5,2,1.0,1.0,"A: The number of times a car appears in: house chair book car car river river book lamp dog book cloud is:
+
+1) 1) 1) 1) "
+2,6,2,,,"A:
+
+Q: How many times does 'car' appear in: car house house lamp lamp tree stone house cloud book dog car?
+
+A:
+
+Q: How m"
+2,7,2,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: house car car chair cloud tree chair bird house bird dog "
+2,8,2,,,"A:
+
+Q: How many times does 'car' appear in: dog book river chair car bird book bird house cloud book car?
+
+A:
+
+Q: How ma"
+2,9,2,12.0,10.0,"A: The number of times a dog appears in a house cloud cloud house lamp is:
+
+1) in the house cloud cloud house lamp
+
+2) i"
+5,0,5,,,"A:
+
+Q: How many times does 'car' appear in: car cloud car car house book chair car stone tree chair car tree lamp river "
+5,1,5,,,"A:
+
+Q: How many times does 'car' appear in: book book house book cloud stone house bird car car car cloud tree?
+
+A:
+
+Q: "
+5,2,5,,,"A: The number of times a 'car' appears in a tree is a function of the number of times the tree is in the tree.
+
+Q: How m"
+5,3,5,,,A: The number of times a stone car appears in a book book book book book book book book book book book book book book bo
+5,4,5,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: cloud lamp car chair chair cloud dog car river car river "
+5,5,5,,,"A: The number of times the 'car' appears in the 'car' tree is a matter of opinion.
+
+Q: How many times does 'car' appear "
+5,6,5,,,A: The number of times the car appears in: house house lamp river car house chair car house chair bird car house chair b
+5,7,5,,,A: The number of times 'car' appears in: car stone bird house bird car car car dog stone house car dog stone house car c
+5,8,5,,,"A: The number of times a car appears in a book is not necessarily the same as the number of times it appears in a book.
+"
+5,9,5,,,A: The number of times a stone is used in a stone stone dog stone dog stone bird tree car car car tree stone chair house
+10,0,10,,,"A: The number of times a 'car' appears in the lamp chair house tree is a very small number.
+
+Q: How many times does 'car"
+10,1,10,,,"A: The first time you see 'car' is when you are standing in the middle of a river.
+
+Q: How many times does 'car' appear "
+10,2,10,,,"A: The answer is, no.
+
+Q: How many times does 'car' appear in: stone bird book house river car tree bird stone car bird "
+10,3,10,,,"A: The answer is, no.
+
+Q: How many times does 'car' appear in: book cloud book car stone book house car cloud book car b"
+10,4,10,,,"A: The number of times a bird appears in a book is a function of the number of times the bird appears in the book.
+
+Q: H"
+10,5,10,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: lamp tree bird car dog house car car cloud house house la"
+10,6,10,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: tree chair bird cloud book stone car dog car dog bird riv"
+10,7,10,,,A: The number of times the car appears in the book is not a direct result of the book being in the book. The number of t
+10,8,10,,,"A: The answer is, it's not.
+
+Q: How many times does 'car' appear in: stone chair dog river cloud car stone car tree car "
+10,9,10,,,"A: The answer is, it's a lot.
+
+Q: How many times does 'car' appear in: car chair lamp house car tree car tree car tree c"
+15,0,15,,,"A: The answer is, no.
+
+Q: How many times does 'car' appear in: car car book river lamp book cloud bird stone car book do"
+15,1,15,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: lamp dog car bird stone car lamp cloud house dog chair tr"
+15,2,15,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: cloud bird car car lamp dog lamp dog car lamp bird book b"
+15,3,15,,,A: The number of times the bird appears in the book is not a factor in the number of times the bird appears in the book.
+15,4,15,,,A: The number of times a car appears in a tree tree river tree tree tree tree tree tree tree tree tree tree tree tree tr
+15,5,15,,,"A: The number of times a bird appears in a book is a function of the number of times the book is in the book.
+
+Q: How ma"
+15,6,15,,,"A: The answer is, it depends on the type of stone.
+
+Q: How many times does 'car' appear in: dog stone dog river car tree"
+15,7,15,,,"A: The answer is, no.
+
+Q: How many times does 'car' appear in: lamp car book bird stone bird car bird tree bird tree tre"
+15,8,15,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: cloud car tree river river river car car tree cloud car b"
+15,9,15,,,"A: The answer is, it depends.
+
+Q: How many times does 'car' appear in: car car stone house book house stone house lamp h"
+20,0,20,,,"A: The answer is, no.
+
+Q: How many times does 'car' appear in: car chair bird chair cloud tree car car bird lamp book la"
+20,1,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: car bird car lamp tree car tree cloud stone bird book hou"
+20,2,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: house lamp dog dog bird chair car car car bird book car c"
+20,3,20,,,"A: The answer is, it depends on the person.
+
+Q: How many times does 'car' appear in: house house river car car stone bir"
+20,4,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: tree cloud car bird house cloud bird car lamp car bird bo"
+20,5,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: stone car book book cloud car dog car stone house cloud d"
+20,6,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: car tree book cloud book dog house tree cloud car lamp ch"
+20,7,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: bird tree car bird house house dog car car lamp chair car"
+20,8,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: car car car book house cloud car car bird river tree car "
+20,9,20,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: lamp lamp tree tree car car stone stone river dog car lam"
+30,0,30,,,"A: The answer is, the answer is, the answer is, the answer is, the answer is, the answer is, the answer is, the answer i"
+30,1,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: chair stone bird stone car cloud bird car car car cloud l"
+30,2,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: bird car tree house chair bird book stone car stone river"
+30,3,30,,,"A: I don't know. I don't know.
+
+Q: How many times does 'car' appear in: bird cloud lamp lamp car car car car house tree "
+30,4,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: lamp dog car house house car book cloud car car book book"
+30,5,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: river stone lamp river tree bird tree car car car book bo"
+30,6,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: car car chair river bird bird car dog bird cloud house do"
+30,7,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: car river lamp house car lamp chair cloud house house car"
+30,8,30,,,"A: The answer is no.
+
+Q: How many times does 'car' appear in: car dog chair car dog stone cloud bird stone lamp chair cl"
+30,9,30,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: bird stone house dog cloud tree river tree car bird car c"
+50,0,50,,,"A: The answer is no.
+
+Q: How many times does 'car' appear in: car cloud bird cloud chair stone chair car cloud stone car"
+50,1,50,,,"A: The answer is no.
+
+Q: How many times does 'car' appear in: stone cloud river house house car bird car book chair tree"
+50,2,50,,,A: I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don
+50,3,50,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: tree dog car bird book car dog book car dog book tree car"
+50,4,50,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: dog car car car car stone bird house bird house car book "
+50,5,50,,,"A: The first time you see 'car' is when you see the car.
+
+Q: How many times does 'car' appear in: river bird tree car ca"
+50,6,50,,,"A: I have a few examples of the 'car' in the above example.
+
+Q: How many times does 'car' appear in: car lamp dog tree s"
+50,7,50,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: chair car river tree chair chair river book lamp chair ch"
+50,8,50,,,"A: I have no idea.
+
+Q: How many times does 'car' appear in: book cloud book car house house book book book book book boo"
+50,9,50,,,"A: The answer is: no.
+
+Q: How many times does 'car' appear in: cloud car car car dog tree house house car chair stone ca"
+75,0,75,,,Q: How many times does 'car' appear in: car car car car bird tree book cloud stone cloud tree tree river car tree tree t
+75,1,75,,,Q: How many times does 'car' appear in: car tree lamp book car car bird car tree tree tree car tree tree tree car tree t
+75,2,75,,,Q: How many times does 'car' appear in: lamp river tree car stone book car bird river house chair book cloud car chair b
+75,3,75,,,Q: How many times does 'car' appear in: bird cloud lamp stone tree car car cloud car book dog book dog book dog book dog
+75,4,75,,,Q: How many times does 'car' appear in: chair lamp house stone book chair river stone dog chair car chair chair chair ch
+75,5,75,,,Q: How many times does 'car' appear in: car dog stone book stone book chair chair chair lamp river stone book car lamp t
+75,6,75,,,Q: How many times does 'car' appear in: dog tree chair car cloud car tree car lamp tree car stone car car lamp tree car 
+75,7,75,,,Q: How many times does 'car' appear in: book car bird car car dog house dog car book book car tree book book book book b
+75,8,75,,,Q: How many times does 'car' appear in: car bird book chair house tree cloud car dog stone car car car cloud car dog boo
+75,9,75,,,Q: How many times does 'car' appear in: cloud lamp tree cloud dog car car cloud dog car cloud dog car cloud dog car clou
+100,0,100,,,Q: How many times does 'car' appear in: river lamp tree dog car dog tree dog car tree book chair chair book book book bo
+100,1,100,,,Q: How many times does 'car' appear in: house car chair book dog car car book cloud chair car car book cloud book cloud 
+100,2,100,,,Q: How many times does 'car' appear in: tree car car cloud tree car cloud dog car book car book car book car book car bo
+100,3,100,,,Q: How many times does 'car' appear in: book car book dog house stone stone river car car chair river car car chair tree
+100,4,100,,,Q: How many times does 'car' appear in: house car car car river car car tree tree tree tree tree tree tree tree tree tre
+100,5,100,,,Q: How many times does 'car' appear in: house car river stone house chair car house stone cloud dog house book house tre
+100,6,100,,,Q: How many times does 'car' appear in: car tree book lamp dog river car tree house car car tree book car book car book 
+100,7,100,,,Q: How many times does 'car' appear in: lamp lamp chair cloud lamp house stone lamp house car lamp chair car car tree tr
+100,8,100,,,Q: How many times does 'car' appear in: car chair lamp tree river river book house tree tree car tree car chair car chai
+100,9,100,,,Q: How many times does 'car' appear in: dog cloud lamp river cloud chair book book house chair car chair book dog car ch

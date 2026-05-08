@@ -1,0 +1,154 @@
+n,trial,window,n_sinks,true,pred,err,gen
+1,0,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,1,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,2,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,3,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,4,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,5,2,4,1,,,I think it's a lot of people are the number of people in the first place???
+1,6,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,7,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,8,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+1,9,2,4,1,,,"I don't know.
+Q: How many people are you?
+Q: How many people"
+2,0,2,4,2,,,"I have a lot of people are?
+Q: How many people are you?
+Q:"
+2,1,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,2,2,4,2,,,I think it's a very small number of people are the number of people in the first place?
+2,3,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,4,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,5,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,6,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,7,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,8,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+2,9,2,4,2,,,"I don't know.
+Q: How many times did you have a lot of people are."
+5,0,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,1,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,2,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,3,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,4,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,5,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,6,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,7,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,8,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+5,9,2,4,5,,,"I don't know.
+Q: How many people are there???????"
+10,0,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,1,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,2,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,3,2,4,10,,,I I I I I I I I I I I I I I I I I I I I
+10,4,2,4,10,,,I I I I I I I I I I I I I I I I I I I I
+10,5,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,6,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,7,2,4,10,,,I I I I I I I I I I I I I I I I I I I I
+10,8,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+10,9,2,4,10,,,I: I: I: I: I: I: I: I: I: I:
+15,0,2,4,15,,,I I I I I I I I I I I I I I I I I I I I
+15,1,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,2,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,3,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,4,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,5,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,6,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,7,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,8,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+15,9,2,4,15,,,I: I: I: I: I: I: I: I: I: I:
+20,0,2,4,20,,,I: I: I: I: I: I: I: I: I: I:
+20,1,2,4,20,,,I: I: I: I: I: I: I: I: I: I:
+20,2,2,4,20,,,A: I: I: I: I: I: I: I: I: I
+20,3,2,4,20,,,Q: How How How How How How How How How How How How How How How How How
+20,4,2,4,20,,,I: I: I: I: I: I: I: I: I: I:
+20,5,2,4,20,,,"B:
+Q: How How How How How How How How How How How How How How"
+20,6,2,4,20,,,Q: How How How How How How How How How How How How How How How How How
+20,7,2,4,20,,,"B:
+Q: How How How How How How How How How How How How How How"
+20,8,2,4,20,,,I: I: I: I: I: I: I: I: I: I:
+20,9,2,4,20,,,I: I: I: I: I: I: I: I: I: I:
+30,0,2,4,30,,,::::::::::::::::::::
+30,1,2,4,30,,,"A:
+B:
+Q: How How How How How How How How How How How"
+30,2,2,4,30,,,::::::::::::::::::::
+30,3,2,4,30,,,::::::::::::::::::::
+30,4,2,4,30,,,::::::::::::::::::::
+30,5,2,4,30,,,::::::::::::::::::::
+30,6,2,4,30,,,"B:
+Q: How How How How How How How How How How How How How How"
+30,7,2,4,30,,,::::::::::::::::::::
+30,8,2,4,30,,,::::::::::::::::::::
+30,9,2,4,30,,,::::::::::::::::::::
+50,0,2,4,50,,,::::::::::::::::::::
+50,1,2,4,50,,,::::::::::::::::::::
+50,2,2,4,50,,,::::::::::::::::::::
+50,3,2,4,50,,,::::::::::::::::::::
+50,4,2,4,50,,,::::::::::::::::::::
+50,5,2,4,50,,,::::::::::::::::::::
+50,6,2,4,50,,,::::::::::::::::::::
+50,7,2,4,50,,,::::::::::::::::::::
+50,8,2,4,50,,,::::::::::::::::::::
+50,9,2,4,50,,,::::::::::::::::::::
+75,0,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,1,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,2,2,4,75,,,A: A: A: A: A: A: A: A: A: A
+75,3,2,4,75,,,BBBBBBBBBBBBBBBBBBB
+75,4,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,5,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,6,2,4,75,,,A: A: A: A: A: A: A: A: A: A
+75,7,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,8,2,4,75,,,B:B:B:B:B:B:B:B:B:B
+75,9,2,4,75,,,BBBBBBBBBBBBBBBBBBB
+100,0,2,4,100,,,::::::::::::::::::::
+100,1,2,4,100,,,"A
+
+A
+
+A
+
+A
+
+A
+
+A: A:"
+100,2,2,4,100,,,::::::::::::::::::::
+100,3,2,4,100,,,::::::::::::::::::::
+100,4,2,4,100,,,::::::::::::::::::::
+100,5,2,4,100,,,::::::::::::::::::::
+100,6,2,4,100,,,::::::::::::::::::::
+100,7,2,4,100,,,::::::::::::::::::::
+100,8,2,4,100,,,::::::::::::::::::::
+100,9,2,4,100,,,::::::::::::::::::::
